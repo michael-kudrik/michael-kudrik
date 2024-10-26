@@ -1,9 +1,12 @@
 ![Header](./header.png)
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inconsolata:wght@200..900&display=swap');
+</style>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h1>
+      <h1 style="font-family: 'IBM Plex Sans', sans-serif;">
         Hi, I'm Michael!
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       </h1>
