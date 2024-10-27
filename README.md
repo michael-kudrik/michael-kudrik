@@ -73,7 +73,7 @@
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-kudrik&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-kudrik&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-kudrik&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 </div>
 
