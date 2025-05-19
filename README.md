@@ -28,34 +28,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>🛠 Tech Stack</h3>
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <h4>Languages</h4>
-
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)<br/>
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)<br/>
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-
-</td>
-<td align="center" valign="top">
-<h4>Frameworks</h4>
-
-![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white)<br/>
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-
-</td>
-<td align="center" valign="top">
-<h4>Design</h4>
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white)<br/>
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=plastic&logo=Adobe%20Illustrator&logoColor=white)<br/>
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)<br/>
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
-
-</td>
 </tr>
 
   </table>
